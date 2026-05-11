@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taoohuu&label=Profile%20views&color=blue&style=for-the-badge" alt="taoohuu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taoohuu&margin-w=6&theme=gitdimmed&rank=-?&column=3" alt="taoohuu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taoohuu&margin-w=6&theme=gitdimmed&rank=-?,-C&column=3" alt="taoohuu" /></a> </p>
 
-- 🔭 I’m currently working on [WithN Labs](https://withnlabs.com)
+- 🔭 I’m currently working on [WithN Labs](https://withnlabs.com) - **Technology Innovation & Development Labs**
 
 - 🌱 I’m currently learning **Go**
 
