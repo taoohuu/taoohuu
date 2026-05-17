@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **TypeScript and Next.js**
 
-- 📫 How to reach me **taoohuu@withnlabs.com**
+- 📫 You can reach me with **taoohuu@withnlabs.com** or **admin@withnlabs.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
