@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://withnlabs.com](https://withnlabs.com)
+- 👨‍💻 All of my projects are available at [withnlabs.com](https://withnlabs.com)
 
 - 💬 Ask me about **TypeScript and Next.js**
 
