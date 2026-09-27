@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taoohuu&label=Profile%20views&color=blue&style=for-the-badge" alt="taoohuu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taoohuu&margin-w=6&theme=gitdimmed&rank=-?,-C&column=3" alt="taoohuu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=taoohuu&margin-w=6&theme=gitdimmed&rank=-?,-C&column=3" alt="taoohuu" /></a> </p>
 
-- 🔭 I’m currently working on [WithN Labs](https://withnlabs.com) - **Technology Innovation & Development Labs**
+- 🔭 I’m currently working on [ORIGIN WORKS](https://origin.in.th) - **Ignite The Origin**
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [withnlabs.com](https://withnlabs.com)
+- 👨‍💻 All of my projects are available at [origin.in.th](https://origin.in.th)
 
 - 💬 Ask me about **TypeScript and Next.js**
 
-- 📫 You can reach me at **admin@withnlabs.com** and/or **admin@wnlx.net**
+- 📫 You can reach me at **admin@origin.in.th** (for brand inquiries) and/or **korawith.t@origin.in.th** (for personal inquiries)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -64,7 +64,7 @@
 	</tr>
 	<tr>
 		<td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="padding:2px" alt="nodejs" width="40" height="40"/></a><br/>Node.js</td>
-		<td align="center"><a href="https://openresty.org/" target="_blank" rel="noreferrer"><img src="https://openresty.org/images/logo.png" style="padding:2px" alt="openresty" width="40" height="40"/></a><br/>OpenResty</td>
+		<td align="center"><a href="https://openresty.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/OpenResty_logo.png" style="padding:2px" alt="openresty" width="40" height="40"/></a><br/>OpenResty</td>
 		<td align="center"><a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" style="padding:2px" alt="redis" width="40" height="40"/></a><br/>Redis</td>
 		<td></td>
 		<td></td>
